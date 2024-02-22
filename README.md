@@ -1,8 +1,26 @@
+# ROCK-PAPER-SCISSORS
+
+It's a great game that you can have fun playing on your phone. You can see the screen gif and photos for more details..
+
+## SCREEN GIF
+
+![](./src/assets/rps.gif)
+
+## SCREEN VIEW
+
+![](./src/assets/1.png)
+
+![](./src/assets/2.png)
+
+![](./src/assets/3.png)
+
+## Setup
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+> **Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
 ## Step 1: Start the Metro Server
 
